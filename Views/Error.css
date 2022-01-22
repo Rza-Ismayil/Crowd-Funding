@@ -1,0 +1,12 @@
+.errorBox
+{
+    text-align: center;
+}
+.loginError
+{
+    color: darkred;
+    background-color: white;
+    border-radius: 12px;
+    padding: 7px;
+    text-align: center;
+}

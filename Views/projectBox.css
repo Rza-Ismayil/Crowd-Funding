@@ -1,0 +1,72 @@
+body
+{
+    background-color: #ffeedf;
+}
+
+.userHello
+{
+    display: grid;
+    background-color: #f1d0a5;
+    padding-right: 5%;
+    font-size: 5vh;
+    border-radius: 15px;
+    grid-template-columns: 1fr 3fr;
+
+}
+
+
+.projectTable
+{
+    border-collapse: separate;
+    border-spacing: 1em 1em;
+}
+
+.ProjectBox
+{
+    background-color: #f1d0a5;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 20px;
+}
+
+.ProjectBox2
+{
+    background-color: #ddb866;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 20px;
+}
+
+.out
+{
+    background-color: black;
+    padding: 5px;
+    margin-bottom: 15px;
+}
+.in
+{
+    background-color: #ff9600;
+    color: #ff9600;
+}
+.investLink
+{
+    background-color: #ffeedf;
+    margin: 30px;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+}
+a:hover, a:active, a:visited, a:link
+{
+    text-decoration: none;
+    color: black;
+    border: black 2px solid;
+}
+
+.userDetail
+{
+    border-collapse: separate;
+    border-spacing: 1em 1em;
+    text-align: center;
+    width: 100%;
+}
